@@ -1,4 +1,4 @@
-# 🔬 Full Resume Analysis App
+# 🔬 Resume Intelligence Analysis System
 
 > An AI-powered Streamlit application that extracts structured insights from any PDF resume — category classification, job role recommendation, and candidate profile extraction in seconds.
 
@@ -8,7 +8,7 @@
 
 🚀 Try the deployed Streamlit application here:
 
-🔗[Full Resume Analysis App](https://69ugfpkntg2ep8kkdnouz7.streamlit.app/)
+🔗[Resume Intelligence Analysis System](https://69ugfpkntg2ep8kkdnouz7.streamlit.app/)
 
 Upload any PDF resume → choose an analysis mode from the sidebar → get instant AI-driven results instantly.
 
