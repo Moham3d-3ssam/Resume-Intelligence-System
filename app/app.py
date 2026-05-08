@@ -399,7 +399,7 @@ def extract_education(text):
 with st.sidebar:
     st.markdown("""
     <div class="sidebar-brand">
-      <div class="sidebar-brand-name">Resume Analysis<span class="sidebar-brand-dot">Lens</span></div>
+      <div class="sidebar-brand-name">Resume Analysis</div>
     </div>
     """, unsafe_allow_html=True)
 
