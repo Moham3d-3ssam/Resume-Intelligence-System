@@ -27,18 +27,18 @@ Upload any PDF resume → choose an analysis mode from the sidebar → get insta
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  Sidebar                │  Main Panel                    │
-│  ─────────────────────  │  ──────────────────────────    │
-│  🚀 Complete Analysis   │  ✅ resume.pdf                 │
-│  📂 Category Detection  │                                │
+│  Sidebar                │  Main Panel                   │
+│  ─────────────────────  │  ──────────────────────────   │
+│  🚀 Complete Analysis   │  ✅ resume.pdf               │
+│  📂 Category Detection  │                               │
 │  💼 Job Recommendation  │  ┌─────────────────────────┐  │
-│  🔍 Info Extraction     │  │ Category: Data Science   │  │
-│                         │  ├─────────────────────────┤  │
-│                         │  │ Role: ML Engineer        │  │
-│                         │  ├─────────────────────────┤  │
-│                         │  │ Name · Email · Phone     │  │
-│                         │  │ Skills · Education       │  │
-│                         │  └─────────────────────────┘  │
+│  🔍 Info Extraction     │  │ Category: Data Science  │  │
+│                         │  ├──────────────────────────┤ │
+│                         │  │ Role: ML Engineer        │ │
+│                         │  ├──────────────────────────┤ │
+│                         │  │ Name · Email · Phone     │ │
+│                         │  │ Skills · Education       │ │
+│                         │  └──────────────────────────┘ │
 └─────────────────────────────────────────────────────────┘
 ```
 
