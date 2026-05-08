@@ -8,7 +8,7 @@
 
 🚀 Try the deployed Streamlit application here:
 
-[🔗 Full Resume Analysis App](https://69ugfpkntg2ep8kkdnouz7.streamlit.app/)
+🔗[Full Resume Analysis App](https://69ugfpkntg2ep8kkdnouz7.streamlit.app/)
 
 Upload any PDF resume → choose an analysis mode from the sidebar → get instant AI-driven results instantly.
 
