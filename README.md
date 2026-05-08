@@ -98,8 +98,8 @@ Full-Resume-Analysis-App/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Moham3d-3ssam/Resume-Intelligence-System.git
-cd Resume-Intelligence-System
+git clone https://github.com/Moham3d-3ssam/Resume-Analysis-Intelligence-System.git
+cd Resume-Analysis-Intelligence-System
 ```
 
 ### 2. Install dependencies
