@@ -51,10 +51,19 @@ st.markdown("""
     border-right: 1px solid var(--border) !important;
   }
   [data-testid="stSidebar"] * { color: var(--text) !important; }
+  [data-testid="stSidebar"] .stRadio label,
+  [data-testid="stSidebar"] .stRadio label p,
+  [data-testid="stSidebar"] .stRadio label span,
+  [data-testid="stSidebar"] .stRadio label div {
+      font-size: 1.2rem !important;
+  }
   [data-testid="stSidebar"] .stRadio label {
-    font-size: .88rem !important;
-    padding: .4rem .2rem !important;
-    transition: color .15s;
+      padding: .4rem .2rem !important;
+      transition: color .15s;
+      display: flex !important;
+      align-items: center !important;
+      gap: .5rem !important;
+      line-height: 1 !important;
   }
   [data-testid="stSidebar"] hr { border-color: var(--border) !important; }
   [data-testid="stSidebar"] .stRadio [data-testid="stMarkdownContainer"] p {
