@@ -95,11 +95,11 @@ Full-Resume-Analysis-App/
 - Python 3.8+
 - pip
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Moham3d-3ssam/Full-Resume-Analysis-App.git
-cd Full-Resume-Analysis-App
+git clone https://github.com/Moham3d-3ssam/Resume-Intelligence-System.git
+cd Resume-Intelligence-System
 ```
 
 ### 2. Install dependencies
